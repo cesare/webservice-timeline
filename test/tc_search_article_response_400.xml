@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>
+    <code>400</code>
+    <message>検索方法に timeline_id, phrase, time_spec のどれかを指定してください</message>
+    <language>ja</language>
+  </status>
+  <result/>
+</response>

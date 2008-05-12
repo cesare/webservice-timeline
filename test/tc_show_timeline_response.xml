@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <message>OK</message>
+    <language>ja</language>
+  </status>
+  <result>
+    <timeline>
+      <id>12345</id>
+      <title>Test TimeLine</title>
+      <link>http://timeline.nifty.com/some/timeline/url</link>
+      <description>テスト。</description>
+      <owner>test-owner</owner>
+      <label_for_vaxis>test-vaxis</label_for_vaxis>
+      <commentable>true</commentable>
+      <open_level>1</open_level>
+      <opened_for>test-readable</opened_for>
+      <lock_level>0</lock_level>
+      <locked_for>test-writable</locked_for>
+      <articles_count>987</articles_count>
+      <initial_position>recent</initial_position>
+      <time_scale>ten_years</time_scale>
+      <updated_at>2007-07-24T12:34:56+09:00</updated_at>
+      <created_at>2007-01-02T01:02:03+09:00</created_at>
+      <score>123</score>
+      <point>234</point>
+      <page_view>7654</page_view>
+      <category>テスト</category>
+    </timeline>
+  </result>
+</response>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <message>OK</message>
+    <language>ja</language>
+  </status>
+  <result>
+    <summary>
+      <total>0</total>
+      <page>1</page>
+      <page_count>1</page_count>
+    </summary>
+    <articles/>
+  </result>
+</response>

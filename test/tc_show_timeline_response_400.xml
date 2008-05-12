@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>
+    <code>400</code>
+    <message>タイムラインが存在しないかプライベートモードのタイムラインが指定されています。</message>
+    <language>ja</language>
+  </status>
+  <result/>
+</response>

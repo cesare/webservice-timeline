@@ -1,0 +1,30 @@
+= WebService::Timeline - Timeline Web service API client
+
+== SYNOPSIS
+
+  require 'rubygems'
+  require 'webservice/timeline'
+
+  client = WebService::Timeline::API.new(:timeline_key => 'your timeline_key')
+
+  # find timeline information with id = 1
+  response = client.show_timeline(1)
+
+  # display information, and so on...
+  pp response.timeline
+
+== NOTES
+
+See http://webservice.nifty.com/timeline for WebAPI documentation.
+
+== Installation
+
+  sudo gem install ws-timeline
+
+== License
+
+WebService::Timeline is released under the MIT license.
+
+== Authors
+
+SAWADA Tadashi <moc.liamg.cesare+ws-timeline@gmail.com>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <message>OK</message>
+    <language>ja</language>
+  </status>
+  <result>
+    <article>
+      <id>12345</id>
+      <title>テスト中</title>
+      <description>テストです。</description>
+      <owner>test-user</owner>
+      <start_time>2007-07-24T12:34:56+09:00</start_time>
+      <end_time>2007-07-25T01:02:03+09:00</end_time>
+      <grade>test-grade</grade>
+      <image>http://timeline.nifty.com/some/image/url</image>
+      <link>http://timeline.nifty.com/url/for/an/article</link>
+      <related_links>
+        <url>http://www.example.com/related</url>
+        <url>http://foo.nifty.com/nowhere</url>
+      </related_links>
+      <updated_at>2007-07-25T02:03:04+09:00</updated_at>
+      <created_at>2007-07-25T03:04:05+09:00</created_at>
+    </article>
+  </result>
+</response>

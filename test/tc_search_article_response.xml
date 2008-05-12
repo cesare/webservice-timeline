@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response>
+  <status>
+    <code>200</code>
+    <message>OK</message>
+    <language>ja</language>
+  </status>
+  <result>
+    <summary>
+      <total>1234</total>
+      <page>1</page>
+      <page_count>123</page_count>
+    </summary>
+    <articles>
+      <article>
+        <id>123</id>
+        <title>１件目</title>
+      </article>
+      <article>
+        <id>456</id>
+        <title>２件目</title>
+      </article>
+    </articles>
+  </result>
+</response>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>
+    <code>400</code>
+    <message>対象のユーザが見つかりません</message>
+    <language>ja</language>
+  </status>
+  <result/>
+</response>

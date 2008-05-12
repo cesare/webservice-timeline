@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <message>OK</message>
+    <language>ja</language>
+  </status>
+  <result>
+    <user>
+      <nickname>timeline-staff</nickname>
+      <link>http://stage.timeline.nifty.com/people/show/1</link>
+      <introduction>timeline staffです。</introduction>
+      <image>http://stage.timeline.nifty.com/portal/show_user_profile_image/1</image>
+    </user>
+  </result>
+</response>
