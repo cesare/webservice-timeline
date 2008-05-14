@@ -15,12 +15,13 @@ require 'webservice/timeline'
 require 'webservice/timeline/version'
 
 spec = Gem::Specification.new do |s|
-  s.name             = 'ws-timeline'
+  s.name             = 'webservice-timeline'
   s.version          = WebService::TimeLine::Version.to_version
   s.author           = 'SAWADA Tadashi'
   s.email            = 'moc.liamg.cesare+ws-timeline@gmail.com'
   s.platform         = Gem::Platform::RUBY
   s.summary          = 'API client Library for @nifty TimeLine web service'
+  s.homepage         = 'http://webservice.nifty.com/timeline/'
 
   files = FileList["{test,lib,doc,examples}/**/*"].exclude("doc/rdoc").to_a
   files |= ['Rakefile', 'MIT-LICENSE']
