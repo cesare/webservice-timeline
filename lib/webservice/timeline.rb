@@ -21,11 +21,8 @@
 # WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 #++
 module WebService # :nodoc:
-  module Timeline  # :nodoc:
+  module TimeLine  # :nodoc:
   end
 end
-
-$KCODE = 'u'
-require 'jcode'
 
 require 'webservice/timeline/api'
